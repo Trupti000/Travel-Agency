@@ -1,0 +1,137 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+nav img{
+    width: 30%;
+    height: 20%;
+
+}
+
+
+#bar a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+
+}
+#pp img{
+    height: 700px;
+}
+
+#pp h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+    color: black;
+    margin-right: 20%;
+    font-weight: 700;
+    font-size: 80px;
+    
+    
+} 
+#NM{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    
+
+}
+#NM h1{
+    color: darkorange;
+}
+#NM img{
+    margin-top: 6%;
+    max-width: 900;
+    max-height: 100%;
+  
+}
+#pdf{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 130%;
+    margin-top: 10%;
+    padding: 3%;
+    margin: 10%;
+    justify-content: space-between;
+
+}
+#Pdf img{
+    border-radius: 12%;
+    width: 30%;
+    margin-left: 30%;
+    margin-top: 30%;
+
+}
+
+#Pdf h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: darkblue;
+    margin-bottom: 5%;
+
+} 
+
+#Pdf h5{
+    color: mediumvioletred;
+}
+
+#Name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 150%;
+    padding: 3%;
+    margin: 10%;
+    background-color: rgba(128, 128, 128, 0.418);
+    justify-content: space-between;
+
+}
+#Name img{
+    border-radius: 20%;
+    width: 30%;
+    margin-left: 30%;
+
+}
+#Name h6 img{
+    border-radius: 100%;
+    width: 10%;
+    margin-left: 20px;
+    margin-bottom: -2px;
+} 
+#Name h5{
+    color: indianred;
+}
+.footer p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    margin-top: -10%;
+
+} 
+#id h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gold;
+    margin-top: 40%;
+    font-weight: 900;
+    margin-top: 30%;
+}
+#id h6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 900;
+}
+#id img{
+    max-height:10% ;
+}

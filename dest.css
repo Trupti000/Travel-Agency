@@ -1,0 +1,116 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+nav img{
+    width: 30%;
+    height: 20%;
+
+}
+
+
+#bar a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+
+}
+#pp img{
+    height: 700px;
+}
+
+#pp h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+    color: black;
+    margin-right: 25%;
+    font-weight: 700;
+    font-size: 80px;
+    
+    
+}
+#mm h3 img{
+    border-radius: 100%;
+    width: 50%;
+    margin-left: 20px;
+    
+} 
+#hd h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    text-decoration: underline;
+    color: darkblue;
+}
+#hd h6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 150%;
+    padding: 3%;
+    margin: 10%;
+    background-color: rgba(128, 128, 128, 0.418);
+    justify-content: space-between;
+
+}
+#Name img{
+    border-radius: 20%;
+    width: 30%;
+    margin-left: 30%;
+
+}
+#Name h6 img{
+    border-radius: 100%;
+    width: 10%;
+    margin-left: 20px;
+    margin-bottom: -2px;
+}
+ 
+#Name h5{
+    color: indianred;
+}
+.footer p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    margin-top: -10%;
+    
+
+} 
+#mm h3{
+    color: indigo;
+}
+#pm h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    text-decoration: underline;
+}
+#pm img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 8%;
+    height: 120%;
+    width: 80%;
+
+}
+#pm p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

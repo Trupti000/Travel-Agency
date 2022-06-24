@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "travel_bookings",
+  "info": {
+    "singularName": "travel-booking",
+    "pluralName": "travel-bookings",
+    "displayName": "travel_booking"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tourist_nm": {
+      "type": "string"
+    },
+    "tourist_mail": {
+      "type": "string"
+    },
+    "tourist_address": {
+      "type": "string"
+    },
+    "tourist_phoneno": {
+      "type": "biginteger"
+    },
+    "tourist_package": {
+      "type": "string"
+    },
+    "tourist_date": {
+      "type": "datetime"
+    },
+    "ticket_no": {
+      "type": "integer"
+    }
+  }
+}
